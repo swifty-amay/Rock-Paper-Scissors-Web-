@@ -19,7 +19,7 @@ Well there's also a mobile version of this game(iOS only) built using Swift. So 
 ## Feel free to comment
 There can be multiple ways to solve a single problem, so if you find a better and effective way other than the logic used here or if you find another way of thinking about this game then feel free to comment.
 
-**The webpage is deployed on github, so you can check it out here: <u>[Rock, Paper & Scissor(Web)](https://swifty-amay.github.io/Rock-Paper-Scissors-Web-/)</u>
+**The webpage is deployed on github, so you can check it out here:** <u>[Rock, Paper & Scissor(Web)](https://swifty-amay.github.io/Rock-Paper-Scissors-Web-/)</u>
 
 
 ## Author
